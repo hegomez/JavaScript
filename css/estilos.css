@@ -223,3 +223,8 @@ body{
   }
 
 }
+
+/**estilos de presionado de boton **/
+.presionado{
+  padding: 3px !important;
+}
