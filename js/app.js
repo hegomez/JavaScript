@@ -1,4 +1,3 @@
-
 var Calculadora=(function(){
 	//Funcion para Acceso a elementos
   	var Elementos = function(elemento)
@@ -33,10 +32,12 @@ var Calculadora=(function(){
 		this.style.padding="4px";
 	};
 	
+	//Efecto de Soltar
 	var EfectoUp = function()
 	{
 		this.style.padding="0px";
 	};
+	
 	//capturar el Numero al hacer clic en el
 	var CargaNum = function()
 	{
